@@ -1,0 +1,12 @@
+D:\Software\Septimo\Aplicaciones moviles\Aplicaciones\APIConsumer\bin\Debug\net8.0\APIConsumer.deps.json
+D:\Software\Septimo\Aplicaciones moviles\Aplicaciones\APIConsumer\bin\Debug\net8.0\APIConsumer.dll
+D:\Software\Septimo\Aplicaciones moviles\Aplicaciones\APIConsumer\bin\Debug\net8.0\APIConsumer.pdb
+D:\Software\Septimo\Aplicaciones moviles\Aplicaciones\APIConsumer\obj\Debug\net8.0\APIConsumer.csproj.AssemblyReference.cache
+D:\Software\Septimo\Aplicaciones moviles\Aplicaciones\APIConsumer\obj\Debug\net8.0\APIConsumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software\Septimo\Aplicaciones moviles\Aplicaciones\APIConsumer\obj\Debug\net8.0\APIConsumer.AssemblyInfoInputs.cache
+D:\Software\Septimo\Aplicaciones moviles\Aplicaciones\APIConsumer\obj\Debug\net8.0\APIConsumer.AssemblyInfo.cs
+D:\Software\Septimo\Aplicaciones moviles\Aplicaciones\APIConsumer\obj\Debug\net8.0\APIConsumer.csproj.CoreCompileInputs.cache
+D:\Software\Septimo\Aplicaciones moviles\Aplicaciones\APIConsumer\obj\Debug\net8.0\APIConsumer.dll
+D:\Software\Septimo\Aplicaciones moviles\Aplicaciones\APIConsumer\obj\Debug\net8.0\refint\APIConsumer.dll
+D:\Software\Septimo\Aplicaciones moviles\Aplicaciones\APIConsumer\obj\Debug\net8.0\APIConsumer.pdb
+D:\Software\Septimo\Aplicaciones moviles\Aplicaciones\APIConsumer\obj\Debug\net8.0\ref\APIConsumer.dll

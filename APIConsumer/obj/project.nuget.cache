@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eZKIR9m55So7l8hCXFLRIv2OJmWC4qcc1DkmFO7segCrRmO6TkbrPAPw8kMth2GLuMykiZCpOmbOT6wM7+xKuw==",
+  "success": true,
+  "projectFilePath": "D:\\Software\\Septimo\\Aplicaciones moviles\\Aplicaciones\\APIConsumer\\APIConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\felma\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
